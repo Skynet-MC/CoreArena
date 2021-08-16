@@ -1,11 +1,4 @@
-<p align="center">
-  Do you want to code your own CoreArena?<br>
-  <a href="https://mineacademy.org/gh-join">
-    <img src="https://i.imgur.com/HGc2VG3.png" />
-  </a>
-</p>
-
-## Announcement: This plugin is now free of charge, you can download it in the "Releases" tab. See https://mineacademy.org/plugins for a list of all plugins we've open sourced.
+## Forked from MineAcademy (Kangarko / Matej Pacan) 
 
 # CoreArena
 CoreArena is a premium quality Bukkit plugin that brings a whole new experience to your Minecraft server in the form of a monster fight arena. Its unique approach is determined by
